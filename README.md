@@ -4,3 +4,5 @@
 [w31 - small test in class](https://leobjorkman.github.io/infovis/mm-w31.html)
 
 [w32 - treegraph](https://leobjorkman.github.io/infovis/MM%20-%20W32.html)
+
+[w32 - sunburst](https://leobjorkman.github.io/infovis/MM%20-%20W34.html)
