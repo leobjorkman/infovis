@@ -5,4 +5,4 @@
 
 [w32 - treegraph](https://leobjorkman.github.io/infovis/MM%20-%20W32.html)
 
-[w32 - sunburst](https://leobjorkman.github.io/infovis/MM%20-%20W34.html)
+[w34 - sunburst](https://leobjorkman.github.io/infovis/MM%20-%20W34.html)
