@@ -7,4 +7,4 @@
 
 [w34 - sunburst](https://leobjorkman.github.io/infovis/MM%20-%20W34.html)
 
-[w35 - d3-scatterplot](https://leobjorkman.github.io/infovis/blob/gh-pages/MM%20-%20W35-d3.html)
+[w35 - d3-scatterplot](https://leobjorkman.github.io/infovis/MM%20-%20W35-d3.html)
